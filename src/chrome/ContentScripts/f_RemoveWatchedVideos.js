@@ -1,5 +1,6 @@
 /**
  * Created by Mattie432 on 24/04/2016.
+ * Test. Going to work on the youtube update so the tweak should continue to work...
  */
 var KeyArray	=	[ 'removeWatchedVideos', 'deleteWatchedVidsAutomated' ];
 
